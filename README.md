@@ -1,4 +1,4 @@
-# SGPA Calculator — BIT Mesra
+# SGPA Calculator
 
 Built this because I was tired of calculating my SGPA manually every semester. Just enter your subjects, credits, and grades — it does the math instantly.
 
@@ -14,7 +14,6 @@ Open `sgpa_calculator.html` in your browser. It comes pre-filled with sample sub
 
 - Add/remove subjects dynamically
 - Select your grade (O, A+, A, B, C, D, E, F) and it auto-fills the grade point
-- Calculates SGPA live using BIT Mesra's formula
 - Highlights failed subjects in red
 - Shows a performance badge (Outstanding, Excellent, Good, etc.)
 
@@ -28,7 +27,7 @@ SGPA = Sum of (Credits × Grade Point) ÷ Total Credits
 
 ---
 
-## Grade scale (BIT Mesra)
+## Grade scale 
 
 | Grade | Marks | Grade Point |
 |-------|-------|-------------|
