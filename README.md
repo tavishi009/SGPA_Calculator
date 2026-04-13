@@ -1,6 +1,6 @@
 # SGPA Calculator
 
-Built this because I was tired of calculating my SGPA manually every semester. Just enter your subjects, credits, and grades — it does the math instantly.
+Built this because I was tired of calculating my SGPA manually every semester. Just enter the subjects, credits, and grades — it does the math instantly.
 
 ---
 
