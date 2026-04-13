@@ -11,7 +11,6 @@ Open `index.html` in your browser. It starts with one empty subject row so you c
 ---
 
 ## What it does
-
 - Add/remove subjects dynamically
 - Select your grade (O, A+, A, B, C, D, E, F) and it auto-fills the grade point
 - Highlights failed subjects in red
