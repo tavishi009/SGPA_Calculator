@@ -14,7 +14,7 @@ Open `index.html` in your browser. It starts with one empty subject row so you c
 - Add/remove subjects dynamically.
 - Select your grade (O, A+, A, B, C, D, E, F) and it auto-fills the grade point.
 - Highlights failed subjects in red.
-- Shows a performance badge (Outstanding, Excellent, Good, etc.)
+- Shows a performance badge (Outstanding, Excellent, Good, etc.).
 
 ---
 
