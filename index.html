@@ -195,6 +195,12 @@
     @media (max-width: 500px) {
       .result-grid { grid-template-columns: 1fr 1fr; }
     }
+
+    @media print {
+      .btn-row { display: none; }
+      .header p { font-size: 11px; }
+      body { background: #fff; padding: 0.5rem; }
+    }
   </style>
 </head>
 <body>
