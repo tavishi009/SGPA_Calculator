@@ -391,6 +391,7 @@
 
   // ── Reset ─────────────────────────────────────────────────
   function resetAll() {
+    if (!confirm('Are you sure you want to reset everything?')) return;
     document.getElementById('subjectBody').innerHTML = '';
     document.getElementById('resultCard').style.display = 'none';
     rowCount = 0;
